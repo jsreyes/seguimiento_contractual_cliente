@@ -1,0 +1,2 @@
+# seguimiento_contractual_cliente
+Repositorio para plantillas de seguimiento contractual
